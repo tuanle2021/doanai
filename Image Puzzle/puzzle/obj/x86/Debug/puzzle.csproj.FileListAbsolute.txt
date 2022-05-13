@@ -1,0 +1,9 @@
+D:\download\tri-tue-nhan-tao-master\tri-tue-nhan-tao-master\Image Puzzle\puzzle\bin\Debug\puzzle.exe
+D:\download\tri-tue-nhan-tao-master\tri-tue-nhan-tao-master\Image Puzzle\puzzle\bin\Debug\puzzle.pdb
+D:\download\tri-tue-nhan-tao-master\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.AssemblyReference.cache
+D:\download\tri-tue-nhan-tao-master\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.frmPuzzleGame.resources
+D:\download\tri-tue-nhan-tao-master\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\download\tri-tue-nhan-tao-master\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.GenerateResource.cache
+D:\download\tri-tue-nhan-tao-master\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.csproj.CoreCompileInputs.cache
+D:\download\tri-tue-nhan-tao-master\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.exe
+D:\download\tri-tue-nhan-tao-master\tri-tue-nhan-tao-master\Image Puzzle\puzzle\obj\x86\Debug\puzzle.pdb
